@@ -1,0 +1,39 @@
+# Binary Search and Linear Search Implementation
+
+## Overview
+This project demonstrates the implementation of two fundamental searching algorithms:
+- **Linear Search**
+- **Binary Search**
+
+The purpose of this project is to provide hands-on experience with searching algorithms and their time complexities.
+
+## How to Run the Program
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/binary-linear-search.git
+   cd binary-linear-search
+Run the Python Script:
+python binary_linear_search.py
+Purpose
+Linear Search: A straightforward algorithm that checks each element in the list sequentially.
+Binary Search: An efficient algorithm for searching in a sorted list using a divide-and-conquer approach.
+TIME COMPLEXITY:
+Linear Search: 
+𝑂(𝑛)
+
+Binary Search:
+Best Case: 
+𝑂(1)
+
+Worst Case: 
+𝑂(log𝑛)
+
+The program also prints the worst-case time complexity of Binary Search.
+
+Example Output
+sql
+Copy
+Edit
+Linear Search: Element 15 found at index 4
+Binary Search: Element 15 found at index 4
+Binary Search Worst-Case Time Complexity: O(log n)
